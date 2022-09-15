@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06119525.css",
+    "main.js": "/static/js/main.bc480c81.js",
+    "static/media/bones.png": "/static/media/bones.b0c127d06c281502d8cc.png",
+    "static/media/leaves.png": "/static/media/leaves.4cfed6fc78702c1321cd.png",
+    "static/media/leaf.png": "/static/media/leaf.c0201894ac437404e5ac.png",
+    "static/media/cart.jpg": "/static/media/cart.45f4c4f1e6119ebc7485.jpg",
+    "static/media/rainbow-circle.png": "/static/media/rainbow-circle.8caf562152ca643bf8cf.png",
+    "index.html": "/index.html",
+    "main.06119525.css.map": "/static/css/main.06119525.css.map",
+    "main.bc480c81.js.map": "/static/js/main.bc480c81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06119525.css",
+    "static/js/main.bc480c81.js"
+  ]
+}
